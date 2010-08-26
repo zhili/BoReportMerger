@@ -1,6 +1,6 @@
-ʹ�÷�����
-��d�̽���һ������new���ļ��У�Ȼ���Ҫ�ϲ���bo�����Ž�ȥ��
-����BoReportMerger.exe�Ϳ�������һ������UntranCellPerfBOReport.xls
-�ĺϲ����ļ���
+使用方法：
+在d盘建立一个叫做new的文件夹，然后把要合并的bo报表放进去，
+运行BoReportMerger.exe就可以生成一个叫做UntranCellPerfBOReport.xls
+的合并后文件。
 
-�����ԣ�Ҫ��װjre6.Ҫ�����Ǹ�ģ���ļ�.
+局限性：要安装jre6.要保留那个模板文件.
