@@ -1,0 +1,14 @@
+#Fat Jar Configuration File
+#Wed Aug 25 11:33:12 CST 2010
+onejar.license.required=true
+manifest.classpath=
+manifest.removesigners=true
+onejar.checkbox=false
+jarname=BoReportMerger_fat.jar
+manifest.mergeall=true
+manifest.mainclass=com.scut.zhili.ReadXlsSheetsAndMerge
+manifest.file=<createnew>
+jarname.isextern=false
+onejar.expand=
+excludes=
+includes=
